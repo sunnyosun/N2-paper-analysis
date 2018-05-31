@@ -1,0 +1,1 @@
+chrXVI	leftchrII	rightchrV	leftchrXV	rightchrXI	leftchrXIV	rightchrIV	leftchrXII	right
