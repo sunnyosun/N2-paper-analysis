@@ -1,1 +1,1 @@
-# fusion_yeast_chromosomes
+# Analysis of yeast fusion chromosomes
