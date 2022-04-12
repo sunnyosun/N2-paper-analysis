@@ -1,4 +1,4 @@
-# Analysis of yeast fusion chromosomes
+# Analysis of the yeast fusion chromosomes paper
 by Xiaoji (Sunny) SUN
 
 # This analysis is performed for the paper Luo et al. Nature 2018
