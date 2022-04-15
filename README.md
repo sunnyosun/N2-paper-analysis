@@ -3,7 +3,7 @@ by Xiaoji (Sunny) Sun
 
 # Reference
 
-This analysis is performed for the paper Luo et al. Nature 2018
+This analysis is performed for the paper [Luo et al. Nature 2018](https://www.nature.com/articles/s41586-018-0374-x)
 
 Luo J, Sun X, Cormack B, Boeke JD. Karyotype engineering: constructing a new species. Nature. 2018 Aug 1. doi: 10.1038/s41586-018-0374-x.
 
