@@ -1,4 +1,4 @@
-# Analysis of the yeast fusion chromosomes paper
+# Analysis of the yeast N=2 fusion chromosomes paper
 This repo contains scripts used in [Luo et al. Nature 2018](https://www.nature.com/articles/s41586-018-0374-x)
 
 ## Abstract
